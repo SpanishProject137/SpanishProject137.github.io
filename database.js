@@ -176,7 +176,7 @@ const irregular = {
         vosotros: "???",
         ellos: "les gusta/gustan"
     },
-    hacer: conjugate("hacer", false, [new Override("yo", "hugo")]),
+    hacer: conjugate("hacer", false, [new Override("yo", "hago")]),
     tener: conjugate("tiener", false, [
         new Override("nosotros", "tenemos"),
         new Override("yo", "tengo")
